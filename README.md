@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harsh98245/DSA/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh98245/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harsh98245/DSA/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh98245/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harsh98245/DSA/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
