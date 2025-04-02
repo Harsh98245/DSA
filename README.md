@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harsh98245/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh98245/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harsh98245/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh98245/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sliding Window
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh98245/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harsh98245/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Binary Search
