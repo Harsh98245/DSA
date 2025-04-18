@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harsh98245/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harsh98245/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh98245/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harsh98245/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Harsh98245/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh98245/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh98245/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harsh98245/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harsh98245/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
 | ------- |
