@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harsh98245/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harsh98245/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Harsh98245/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harsh98245/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Harsh98245/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Harsh98245/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh98245/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh98245/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harsh98245/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harsh98245/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
