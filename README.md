@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Harsh98245/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Harsh98245/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Harsh98245/DSA/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh98245/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Harsh98245/DSA/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
