@@ -11,6 +11,6 @@ class Solution(object):
         for row in nums[1:]:
             common &= set(row)
 
-            
+         #we have to use sorted algo rather than function   
 
         return sorted(common)
