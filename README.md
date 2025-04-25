@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh98245/DSA/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Harsh98245/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh98245/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh98245/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh98245/DSA/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Harsh98245/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh98245/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh98245/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh98245/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harsh98245/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh98245/DSA/tree/master/0217-contains-duplicate) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Harsh98245/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh98245/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harsh98245/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harsh98245/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Harsh98245/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
