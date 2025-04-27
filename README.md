@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Harsh98245/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Harsh98245/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Harsh98245/DSA/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Harsh98245/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh98245/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh98245/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harsh98245/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## String
 |  |
 | ------- |
