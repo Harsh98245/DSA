@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Harsh98245/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Harsh98245/DSA/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Harsh98245/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Harsh98245/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harsh98245/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Harsh98245/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Harsh98245/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
