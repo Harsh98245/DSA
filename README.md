@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh98245/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Harsh98245/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Harsh98245/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh98245/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Harsh98245/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Harsh98245/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh98245/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Harsh98245/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Harsh98245/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Binary Search
 |  |
 | ------- |
