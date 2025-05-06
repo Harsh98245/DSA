@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh98245/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Harsh98245/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harsh98245/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Harsh98245/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh98245/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Harsh98245/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harsh98245/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Harsh98245/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Harsh98245/DSA/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh98245/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Harsh98245/DSA/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Harsh98245/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harsh98245/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Harsh98245/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Harsh98245/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2502-sort-the-people](https://github.com/Harsh98245/DSA/tree/master/2502-sort-the-people) |
+## Matrix
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Harsh98245/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
