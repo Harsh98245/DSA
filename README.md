@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Harsh98245/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harsh98245/DSA/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Harsh98245/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2650-split-with-minimum-sum](https://github.com/Harsh98245/DSA/tree/master/2650-split-with-minimum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh98245/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Harsh98245/DSA/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Harsh98245/DSA/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2650-split-with-minimum-sum](https://github.com/Harsh98245/DSA/tree/master/2650-split-with-minimum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh98245/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Harsh98245/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2650-split-with-minimum-sum](https://github.com/Harsh98245/DSA/tree/master/2650-split-with-minimum-sum) |
 ## Simulation
 |  |
 | ------- |
